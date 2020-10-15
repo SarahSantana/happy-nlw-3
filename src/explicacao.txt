@@ -1,0 +1,8 @@
+Os 3 conceitos mais famosos do react:
+
+Componente
+Propriedade => propriedades que adicionamos nos componentes ex: <Route path="/" exact component={Landing} /> 
+Estado => Estado é qualquer tipo de informação que vai ser armazenada e manipulada no meu componente
+
+Ciclo de renderização: quando a setOrphanages ou seja qndo a função para atualização de uma variavel com Estado
+é chamada, todo o componente é renderizado (carregado) novamente.
