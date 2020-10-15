@@ -31,7 +31,7 @@
 
   margin: 16px 40px 0;
 }
- 
+
 .orphanage-details .images button {
   border: 0;
   height: 88px;
@@ -138,6 +138,12 @@
   background: linear-gradient(154.16deg, #EDFFF6 7.85%, #FFFFFF 91.03%);
   border: 1px solid #A1E9C5;
   color: #37C77F;
+}
+
+.orphanage-details .orphanage-details-content .open-details div.open-on-weekends.dont-open {
+  background: linear-gradient(154.16deg, #FDF8F5 7.85%, #FFFFFF 91.03%);
+  border: 1px solid #FFBCD4;
+  color: #FF6690;
 }
 
 .orphanage-details .orphanage-details-content button.contact-button {
